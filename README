@@ -1,0 +1,12 @@
+CS2010
+Lab Assignment 5
+Zachary Lapointe
+DICTIONARY PART 3
+This program will create a dictionary of words (implemented as a linked list and using structs) found in a file
+Maximum uniques words is 100 (arbitrary)
+Max length of each word is 19 (kept for nice formatting only)
+
+To compile, type make in terminal.
+To run type:            ./DICTIONARY
+To input a file and run type:   ./DICTIONARY < test
+where test is the file with your input
